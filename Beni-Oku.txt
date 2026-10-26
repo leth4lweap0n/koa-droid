@@ -1,0 +1,70 @@
+KOA — MASAÜSTÜ DOSTUN
+Yeni piksel koleksiyonu: 100 animasyon / 1000 kare.
+Bütün hareketler Hareketler sekmesinde veya sağ tık → Hareketler içinde.
+
+KOA-Droid.exe dosyasına çift tıkla. Kurulum gerekmez.
+EXE'yi istediğin klasöre taşıyabilirsin; görseller içine gömülü.
+
+Tut ve taşı       → Koa'yı başka bir yere/monitöre taşı.
+Çift tıkla       → Dans etsin.
+Sağ tıkla        → Hareketler ve çıkış menüsü.
+Tepsiye sol tıkla→ Kontrol merkezi: başlangıç, hatırlatmalar, odak ve mola, hareketler, ayarlar.
+Tepsiye sağ tıkla→ Menü.
+
+Koa görev çubuğunda görünmez. İkonu saat yanındaki ^ menüsünde
+bulabilirsin; istersen saat yanına sürükle.
+
+Tıklamaları geçir seçeneği açıkken petin üstünden alttaki uygulamaya
+tıklarsın. Ayarı tepsi ikonundan geri kapatabilirsin.
+
+Tam ekran uygulamalarda otomatik gizlenir. Bu davranışı kontrol
+panelinden değiştirebilirsin. Peti kapatmak için tepsi → Çıkış.
+
+Bildirim sesi yalnızca ilk açılışta, hatırlatmalarda ve çıkışta çalar.
+Normal sohbetler sessizdir.
+Ayarlar → Bildirim sesi anahtarından açıp kapatabilirsin.
+
+Varsayılan gezinme biçimi alt kenarda yürüyüştür.
+Bu modda Koa'yı yukarıdan bırakırsan iniş animasyonuyla yere döner.
+Art arda bıraktığında ara sıra farklı bir şey söyler.
+Hareketler → Yürü / Koş / Hızlı koş ile yeni animasyonları seçebilirsin.
+Ayarlar → Hareket biçimi → Fareyi takip et ile imlecin yanına yürür.
+Ayarlar → Windows açılışında başlat ile kullanıcı hesabında otomatik açılmasını seçebilirsin.
+Davranış anahtarlarının yazısına veya düğmesine tıklayabilirsin.
+
+Odak ve mola: süreleri ayarla, başlat, duraklat veya sıfırla.
+Varsayılan 25 dk odak / 5 dk mola; süre dolunca sohbet balonunda haber verir.
+Otomatik geçiş açılabilir. Sayaç kapanışta sıfırlanır; ayarlar korunur.
+
+Hatırlatmalar → Yeni hatırlatma: başlık, mesaj, tarih/saat veya tekrar
+aralığı seç. Saatler İstanbul saatine (UTC+3) göredir. Su, mola ve göz
+dinlendirme hazır seçeneklerini düzenleyerek kullanabilirsin.
+
+Süre dolunca Koa mesajı yalnızca sohbet balonunda söyler. Mesajlar
+sırayla gösterilir ve kendiliğinden tamamlanır.
+Hatırlatmalar Koa açıkken çalışır; kayıtlar ve henüz söylenmemiş mesajlar
+yeniden açılışta korunur. Koa gizliyken veya tam ekran uygulamada mesaj bekletilir.
+
+Windows 10/11 ve .NET Framework 4.x kullanır.
+
+2.3: Yeni kontrol merkezi, hareket araması ve koyu temalı takvim. Hareketler sekmesinde arama yapabilir, görsele veya düğmesine basarak oynatabilirsin.
+2.5: Karşılama alanı ve yan menüdeki canlı durum kartı yenilendi. Başlıklar ve ayar etiketleri daha açık hâle getirildi.
+2.6: Görsellerdeki ince kaynak çerçeveleri temizlendi. Koa hareketlerin tamamını daha çeşitli aralıklarla kullanır. Kontrol merkezi, peti taşıma ve sohbet balonu daha akıcıdır.
+2.6.2: Hareket önizlemeleri küçük kopyalar olarak tutulur; animasyon belleği sınırlandırıldı. Uzun süre açık kaldığında bellek tüketimi daha dengeli olur.
+2.6.3: Çuval çekme hareketinin yönü düzeltildi. Takla, engel atlama, atılma, ışınlanma ve roket botları kendi karelerine uygun konum hareketi yapar. Kutuyu alıp bırakma ve önden süzülme yerinde oynar; ağır yükler kısa, yavaş rotalar izler.
+2.6.4: Kontrol merkezinde maskot adı KOA-DROID oldu. Tekrarlanan isim etiketleri sadeleştirildi; boyut ve hız kaydırıcıları aynı görünüme kavuştu.
+2.6.5: Yan menüdeki canlı durum kartı, alt durum çubuğu ve üst bölüm etiketi kaldırıldı. Ekrana getir düğmesi dönüş simgesiyle yan menünün altına taşındı.
+2.6.6: Hatırlatma ekleme ve hazır seçenekler sayfanın altında tek bir alanda toplandı. Yeni hatırlatma düğmesi artık listeden bağımsız ve her zaman görünür.
+2.7: Başlangıç tanıtım sayfası eklendi; Ayarlar sol menünün altına taşındı. Hatırlatma satırları hizalandı, gereksiz duraklatma seçeneği kaldırıldı ve dakika alanları baştan çizildi.
+2.7.1: Ayarlar diğer sayfaların altına alındı. Ekrana getir düğmesinin alt kenarı başlangıç sayfasındaki alt kartla hizalandı; özellik başlıklarının numaraları kaldırıldı.
+2.7.2: Sol menü alanı sabitlendi; Ekrana getir ve bütün ana sayfaların içerikleri aynı alt sınıra hizalandı.
+2.7.3: Ayarlar ve odak sayfalarının alt bilgi kartlarındaki gereksiz başlıklar kaldırıldı. Kontrol merkezi başlangıç sayfasında açılır; konum sıfırlama düğmesi yeniden adlandırıldı.
+2.7.4: Yürü, koş, hızlı koş ve sinsice yürüme %100 genel hızda iki kat hızlandı. Sağ tık menüsü kontrol merkezinin köşeli koyu tasarımına uyarlandı. Hatırlatma işlemleri açıklamalı simgelere dönüştü; silme kırmızı değil.
+2.7.5: Sağ tık menüsündeki gereksiz kısa yollar ve boşluk kaldırıldı. Tıklama geçirme seçeneği artık duruma göre geçir/geçirme yazar; yanında kutu göstermez.
+2.7.6: Sağ tık menüsünün başlığı KOA-DROID oldu. Tepsi simgesi gönderdiğin yüz görselini kullanır ve üzerine gelince KOA-DROID yazar.
+
+2.7.7: Uygulama dosyası ve işlem adı KOA-Droid.exe oldu. Windows dosya simgesi tepsi ikonundaki yüzle aynı. Eski ayarlar korunur.
+2.7.8: Yukarıdan bırakılınca iniş animasyonu eklendi. Tekrarlı bırakışlara ara sıra değişen tepkiler ve Windows açılışında başlatma anahtarı eklendi.
+2.7.9: Bütün animasyon kareleri yeniden tarandı; kalmış atlas ayırıcı çizgileri ve komşu kare parçaları temizlendi. Karakterin çizimi ve kare ölçüleri korundu.
+2.7.10: Atılarak saldırı ve dikiş dikmenin 12 karesindeki kısa çizgi parçaları temizlendi. Diğer hareketler ve kare ölçüleri korundu.
+
