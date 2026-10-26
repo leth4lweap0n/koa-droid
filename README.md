@@ -11,11 +11,10 @@ Windows masaüstünde yaşayan piksel karakter. Kurulum gerektirmez, internet ku
 
 Son sürüm: **2.7.10**
 
-- [**KOA-Droid-Portable.zip**](../../releases/download/v2.7.10/KOA-Droid-Portable.zip) — önerilen (EXE + Beni-Oku.txt)
-- [**KOA-Droid.exe**](../../releases/download/v2.7.10/KOA-Droid.exe) — doğrudan çalıştırılabilir dosya
+[**KOA-Droid.exe**](../../releases/download/v2.7.10/KOA-Droid.exe) — tek dosya, ~46 MB
 
-Kurulum yok. ZIP'i bir klasöre çıkar, `KOA-Droid.exe` dosyasına çift tıkla.
-EXE'yi istediğin yere taşıyabilirsin; görseller, ses ve ikon dosyanın içine gömülüdür.
+Kurulum yok. İndir, istediğin klasöre koy, çift tıkla. Başka dosya gerekmez;
+görseller, ses ve ikon EXE'nin içine gömülüdür.
 
 **Sistem:** Windows 10 / 11 · .NET Framework 4.x (Windows ile birlikte gelir)
 
@@ -42,9 +41,6 @@ Tam ekran oyun ve filmlerde kendiliğinden gizlenir.
 ## Doğrulama
 
 ```
-KOA-Droid-Portable.zip
-SHA-256: 8d6b07e6908aef4c93b069a46e08ae4379ab8aaf43301b4129a5db5d404300f0
-
 KOA-Droid.exe
 SHA-256: ac11e4a01bc3ac14e9ca76a052d53f1b67a6000c2fbb6e2394c333623ee8d431
 ```
